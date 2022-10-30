@@ -1,0 +1,15 @@
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\bin\Debug\net6.0\ExerciciosClassesAtributosMetodos.exe
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\bin\Debug\net6.0\ExerciciosClassesAtributosMetodos.deps.json
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\bin\Debug\net6.0\ExerciciosClassesAtributosMetodos.runtimeconfig.json
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\bin\Debug\net6.0\ExerciciosClassesAtributosMetodos.dll
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\bin\Debug\net6.0\ExerciciosClassesAtributosMetodos.pdb
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\obj\Debug\net6.0\ExerciciosClassesAtributosMetodos.csproj.AssemblyReference.cache
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\obj\Debug\net6.0\ExerciciosClassesAtributosMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\obj\Debug\net6.0\ExerciciosClassesAtributosMetodos.AssemblyInfoInputs.cache
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\obj\Debug\net6.0\ExerciciosClassesAtributosMetodos.AssemblyInfo.cs
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\obj\Debug\net6.0\ExerciciosClassesAtributosMetodos.csproj.CoreCompileInputs.cache
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\obj\Debug\net6.0\ExerciciosClassesAtributosMetodos.dll
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\obj\Debug\net6.0\refint\ExerciciosClassesAtributosMetodos.dll
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\obj\Debug\net6.0\ExerciciosClassesAtributosMetodos.pdb
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\obj\Debug\net6.0\ExerciciosClassesAtributosMetodos.genruntimeconfig.cache
+C:\Users\thale\source\repos\Course C#\Seção 4\ExerciciosClassesAtributosMetodos\ExerciciosClassesAtributosMetodos\obj\Debug\net6.0\ref\ExerciciosClassesAtributosMetodos.dll

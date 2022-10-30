@@ -1,0 +1,15 @@
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\bin\Debug\net6.0\PrimeirosExerciciosOO.exe
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\bin\Debug\net6.0\PrimeirosExerciciosOO.deps.json
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\bin\Debug\net6.0\PrimeirosExerciciosOO.runtimeconfig.json
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\bin\Debug\net6.0\PrimeirosExerciciosOO.dll
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\bin\Debug\net6.0\PrimeirosExerciciosOO.pdb
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net6.0\PrimeirosExerciciosOO.csproj.AssemblyReference.cache
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net6.0\PrimeirosExerciciosOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net6.0\PrimeirosExerciciosOO.AssemblyInfoInputs.cache
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net6.0\PrimeirosExerciciosOO.AssemblyInfo.cs
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net6.0\PrimeirosExerciciosOO.csproj.CoreCompileInputs.cache
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net6.0\PrimeirosExerciciosOO.dll
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net6.0\refint\PrimeirosExerciciosOO.dll
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net6.0\PrimeirosExerciciosOO.pdb
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net6.0\PrimeirosExerciciosOO.genruntimeconfig.cache
+C:\Users\thale\source\repos\Course C#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net6.0\ref\PrimeirosExerciciosOO.dll
