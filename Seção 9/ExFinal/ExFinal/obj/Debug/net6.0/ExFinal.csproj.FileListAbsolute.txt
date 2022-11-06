@@ -1,0 +1,15 @@
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\bin\Debug\net6.0\ExFinal.exe
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\bin\Debug\net6.0\ExFinal.deps.json
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\bin\Debug\net6.0\ExFinal.runtimeconfig.json
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\bin\Debug\net6.0\ExFinal.dll
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\bin\Debug\net6.0\ExFinal.pdb
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\obj\Debug\net6.0\ExFinal.csproj.AssemblyReference.cache
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\obj\Debug\net6.0\ExFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\obj\Debug\net6.0\ExFinal.AssemblyInfoInputs.cache
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\obj\Debug\net6.0\ExFinal.AssemblyInfo.cs
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\obj\Debug\net6.0\ExFinal.csproj.CoreCompileInputs.cache
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\obj\Debug\net6.0\ExFinal.dll
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\obj\Debug\net6.0\refint\ExFinal.dll
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\obj\Debug\net6.0\ExFinal.pdb
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\obj\Debug\net6.0\ExFinal.genruntimeconfig.cache
+C:\Users\thale\source\repos\Course C#\Seção 9\ExFinal\ExFinal\obj\Debug\net6.0\ref\ExFinal.dll
