@@ -1,0 +1,15 @@
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\bin\Debug\net6.0\ClassEMetodosAbstratos.exe
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\bin\Debug\net6.0\ClassEMetodosAbstratos.deps.json
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\bin\Debug\net6.0\ClassEMetodosAbstratos.runtimeconfig.json
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\bin\Debug\net6.0\ClassEMetodosAbstratos.dll
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\bin\Debug\net6.0\ClassEMetodosAbstratos.pdb
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\obj\Debug\net6.0\ClassEMetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\obj\Debug\net6.0\ClassEMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\obj\Debug\net6.0\ClassEMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\obj\Debug\net6.0\ClassEMetodosAbstratos.AssemblyInfo.cs
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\obj\Debug\net6.0\ClassEMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\obj\Debug\net6.0\ClassEMetodosAbstratos.dll
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\obj\Debug\net6.0\refint\ClassEMetodosAbstratos.dll
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\obj\Debug\net6.0\ClassEMetodosAbstratos.pdb
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\obj\Debug\net6.0\ClassEMetodosAbstratos.genruntimeconfig.cache
+C:\Users\thale\source\repos\Course C#\Seção 10\ClassEMetodosAbstratos\ClassEMetodosAbstratos\obj\Debug\net6.0\ref\ClassEMetodosAbstratos.dll
