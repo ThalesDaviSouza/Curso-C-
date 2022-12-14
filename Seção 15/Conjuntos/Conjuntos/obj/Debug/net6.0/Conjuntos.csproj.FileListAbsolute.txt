@@ -1,0 +1,15 @@
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.exe
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.deps.json
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.runtimeconfig.json
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.dll
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.pdb
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.csproj.AssemblyReference.cache
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.AssemblyInfoInputs.cache
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.AssemblyInfo.cs
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.dll
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\obj\Debug\net6.0\refint\Conjuntos.dll
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.pdb
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.genruntimeconfig.cache
+C:\Users\thale\source\repos\Course C#\Seção 15\Conjuntos\Conjuntos\obj\Debug\net6.0\ref\Conjuntos.dll
